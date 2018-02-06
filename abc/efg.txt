@@ -1,0 +1,7 @@
+undo changes
+
+checkout
+
+try reset
+
+sav uing --cached option
